@@ -17,7 +17,7 @@ result
 <pre>
 ┌---------------------------------Curses Program---------------------------------┐
 |hello world                                                                     |
-|this is my secondlint                                                       
+|this is my second line                                                          |
 |                                                                                |
 |                                                                                |
 |                                                                                |
